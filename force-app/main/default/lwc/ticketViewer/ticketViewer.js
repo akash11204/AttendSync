@@ -13,4 +13,3 @@ export default class TicketViewer extends LightningElement {
     }
   }
 }
-
